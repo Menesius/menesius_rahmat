@@ -45,7 +45,7 @@
 	<!-- bagian box formulir -->
 	<section class="box-formulir">
 		
-		<h2>Formulir Pendaftaran Siswa Baru SMA WELAK< men gunawan </h2>
+		<h2>Formulir Pendaftaran Siswa Baru SMA WELAK </h2>
 
 		<!-- bagian form -->
 		<form action="" method="post">
